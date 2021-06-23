@@ -4,5 +4,5 @@
   
 # Desenvolvedores
 
-Joan de Azevedo Medeiros,
+Joan de Azevedo Medeiros
 Allan Gabriel de Almeida Oliveira - @allangbr
